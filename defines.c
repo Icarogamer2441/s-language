@@ -25,6 +25,7 @@
 #define nao !
 #define diferente !=
 #define booleano int
+#define dobro double
 
 void help() {
 	imprimir("se = if\n");
