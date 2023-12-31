@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 inteiro main() {
-  imprimir("hello world');
+  imprimir("hello world");
   help();
 }
