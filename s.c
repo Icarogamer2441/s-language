@@ -1,4 +1,4 @@
-#include <defines.c>
+#include "defines.c"
 #include <stdio.h>
 
 inteiro main() {
